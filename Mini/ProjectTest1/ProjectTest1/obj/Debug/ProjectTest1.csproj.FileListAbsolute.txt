@@ -19,3 +19,6 @@ C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\De
 C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Properties.Resources.resources
 C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.GenerateResource.Cache
 C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form3.resources
+C:\Users\Student\Downloads\Mini-Project-main\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe.config
+C:\Users\Student\Downloads\Mini-Project-main\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.exe
+C:\Users\Student\Downloads\Mini-Project-main\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.pdb
