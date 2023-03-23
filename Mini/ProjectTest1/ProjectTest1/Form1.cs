@@ -44,7 +44,7 @@ namespace ProjectTest1
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("uewqdfowqdf");
+
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
@@ -61,6 +61,12 @@ namespace ProjectTest1
         {
             Form2 f2 = new Form2();
             f2.Show();
+        }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form3 f3= new Form3();
+            f3.Show();
         }
     }
 }
