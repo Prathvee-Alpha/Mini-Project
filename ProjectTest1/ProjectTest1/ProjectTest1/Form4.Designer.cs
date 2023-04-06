@@ -103,6 +103,7 @@
             this.Controls.Add(this.label4);
             this.Name = "Form4";
             this.Text = "Form4";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.ResumeLayout(false);
             this.PerformLayout();
 
