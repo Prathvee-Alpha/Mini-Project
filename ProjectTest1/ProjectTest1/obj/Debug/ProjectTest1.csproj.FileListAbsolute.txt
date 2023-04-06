@@ -1,0 +1,81 @@
+D:\Mini\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe.config
+D:\Mini\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe
+D:\Mini\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.pdb
+D:\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csprojResolveAssemblyReference.cache
+D:\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form1.resources
+D:\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Properties.Resources.resources
+D:\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.GenerateResource.Cache
+D:\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.exe
+D:\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.pdb
+D:\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form2.resources
+C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe.config
+C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.exe
+C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.pdb
+C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe
+C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.pdb
+C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form1.resources
+C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form2.resources
+C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Properties.Resources.resources
+C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form3.resources
+C:\Users\Student\Downloads\Mini-Project-main\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe.config
+C:\Users\Student\Downloads\Mini-Project-main\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.exe
+C:\Users\Student\Downloads\Mini-Project-main\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.pdb
+C:\Users\gurav\Downloads\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe.config
+C:\Users\gurav\Downloads\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe
+C:\Users\gurav\Downloads\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.pdb
+C:\Users\gurav\Downloads\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.AssemblyReference.cache
+C:\Users\gurav\Downloads\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurav\Downloads\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form1.resources
+C:\Users\gurav\Downloads\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form2.resources
+C:\Users\gurav\Downloads\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form3.resources
+C:\Users\gurav\Downloads\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Properties.Resources.resources
+C:\Users\gurav\Downloads\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.GenerateResource.cache
+C:\Users\gurav\Downloads\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.CoreCompileInputs.cache
+C:\Users\gurav\Downloads\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.exe
+C:\Users\gurav\Downloads\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.pdb
+C:\Users\gurav\Downloads\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form4.resources
+D:\mini img\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.AssemblyReference.cache
+D:\mini img\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.SuggestedBindingRedirects.cache
+D:\mini img\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.exe
+D:\mini img\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.pdb
+D:\mini img\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe.config
+D:\mini img\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe
+D:\mini img\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.pdb
+D:\mini img\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form1.resources
+D:\mini img\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form2.resources
+D:\mini img\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form3.resources
+D:\mini img\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form4.resources
+D:\mini img\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Properties.Resources.resources
+D:\mini img\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.GenerateResource.cache
+D:\mini img\Mini-Project-main\Mini\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.CoreCompileInputs.cache
+C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe.config
+C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe
+C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.pdb
+C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.AssemblyReference.cache
+C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form1.resources
+C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form2.resources
+C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form3.resources
+C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form4.resources
+C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Properties.Resources.resources
+C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.GenerateResource.cache
+C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.CoreCompileInputs.cache
+C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.exe
+C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.pdb
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe.config
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.exe
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.pdb
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.pdb
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csprojResolveAssemblyReference.cache
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form1.resources
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form2.resources
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form3.resources
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form4.resources
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.concert.resources
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Properties.Resources.resources
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.GenerateResource.Cache
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Ticket.resources
+D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.c_details.resources
