@@ -18,7 +18,6 @@ namespace ProjectTest1
         {
             InitializeComponent();
         }
-        string email = "@gmail.com";
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -26,19 +25,12 @@ namespace ProjectTest1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if ("@gmail.com" == textBox3.Text)
-            {
-                //con.Open();
-                //string query = "insert into register (Email, Fn, Ln, Un, Pw, recover) values ('"+ textBox3.Text +"','"+ textBox4.Text +"', '"+ textBox5.Text +"','"+ textBox1.Text +"','"+ textBox2.Text +"','"+ textBox7.Text +"')";
-                //SqlCommand com = new SqlCommand(query, con);
-                //com.ExecuteNonQuery();
+                con.Open();
+                string query = "insert into register (Email, Fn, Ln, Un, Pw, recover) values ('"+ textBox3.Text +"','"+ textBox4.Text +"', '"+ textBox5.Text +"','"+ textBox1.Text +"','"+ textBox2.Text +"','"+ textBox7.Text +"')";
+                SqlCommand com = new SqlCommand(query, con);
+                com.ExecuteNonQuery();
                 MessageBox.Show("Registered successfully");
-                //con.Close();
-            }
-            else
-            {
-                MessageBox.Show("Registered not successfully");
-            }
+                con.Close();
         }
 
         private void label8_Click(object sender, EventArgs e)

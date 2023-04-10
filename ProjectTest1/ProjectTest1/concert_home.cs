@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace ProjectTest1
 {
-    public partial class Form4 : Form
+    public partial class concert_home : Form
     {
-        public Form4()
+        public concert_home()
         {
             InitializeComponent();
-        }
-
-        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }

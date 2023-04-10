@@ -64,18 +64,3 @@ C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1
 C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.CoreCompileInputs.cache
 C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.exe
 C:\Users\gurav\Downloads\Telegram Desktop\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.pdb
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe.config
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.exe
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.pdb
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.exe
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\bin\Debug\ProjectTest1.pdb
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csprojResolveAssemblyReference.cache
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form1.resources
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form2.resources
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form3.resources
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Form4.resources
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.concert.resources
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Properties.Resources.resources
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.csproj.GenerateResource.Cache
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.Ticket.resources
-D:\Mini-Project-main\ProjectTest1\ProjectTest1\ProjectTest1\obj\Debug\ProjectTest1.c_details.resources
